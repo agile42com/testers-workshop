@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$USER_HOME$/Workspace/testers-workshop/JavaTestWorkshop/JavaTestWorkshop.iml" filepath="$USER_HOME$/Workspace/testers-workshop/JavaTestWorkshop/JavaTestWorkshop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaTestWorkshop.iml" filepath="$PROJECT_DIR$/JavaTestWorkshop.iml" />
     </modules>
   </component>
 </project>
