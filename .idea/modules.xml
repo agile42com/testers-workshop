@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HandlingExceptions/HandlingExceptions.iml" filepath="$PROJECT_DIR$/HandlingExceptions/HandlingExceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/RandomData/RandomData.iml" filepath="$PROJECT_DIR$/RandomData/RandomData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadExamples/ThreadExamples.iml" filepath="$PROJECT_DIR$/ThreadExamples/ThreadExamples.iml" />
     </modules>
   </component>
 </project>
