@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HandlingExceptions/HandlingExceptions.iml" filepath="$PROJECT_DIR$/HandlingExceptions/HandlingExceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RandomData/RandomData.iml" filepath="$PROJECT_DIR$/RandomData/RandomData.iml" />
     </modules>
   </component>
 </project>
