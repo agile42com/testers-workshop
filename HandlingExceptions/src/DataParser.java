@@ -20,8 +20,8 @@ public class DataParser {
         myMap.put("height", "1.70");
 
         myMap1.put("name", "Frank");
-        myMap1.put("weight", "81.5");
-        myMap1.put("height", "1,83");
+        myMap1.put("weight", "81,5");
+        myMap1.put("height", "1.83");
 
         myMap2.put("name", "Carl");
         myMap2.put("weight", "65.9");
