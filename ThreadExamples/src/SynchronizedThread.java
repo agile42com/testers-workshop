@@ -23,8 +23,8 @@ public class SynchronizedThread {
 
     public static void main(String args[]) {
         (new MessagePrinter("first thread")).start();
-        (new MessagePrinter("second thread")).start();
         (new MessagePrinter("third thread")).start();
+        (new MessagePrinter("second thread")).start();
     }
 
 }
